@@ -121,7 +121,7 @@ print(x_single_prediction)
 ```
 
 ## Output:
-![329764933-43ec0e64-083e-4129-996b-9b92305b9f4b](https://github.com/Adhithyaram29D/NN-Project-Based-Experiment/assets/119393540/6c05f7de-9ab9-4883-b9b1-31d75a1a0755)
+![image](https://github.com/Adhithyaram29D/NN-Project-Based-Experiment/assets/119393540/6c872465-4df0-40ae-b584-a577e42c758a)
 
 ![download](https://github.com/Adhithyaram29D/NN-Project-Based-Experiment/assets/119393540/78af1262-11e9-4420-859e-fca03478b8cb)
 
